@@ -1,0 +1,17 @@
+.container-cover-four {
+    background: url(bg-1-game-4.jpg) center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.container-cover-four p {
+    color: #0A66C2;
+}
+.container-cover-four h3 {
+    color: #AD4AFF;
+}
